@@ -1,0 +1,94 @@
+.items{
+    display: flex;
+justify-content: space-around;
+padding: 20PX 0px;}
+    
+    .item p {
+        text-align: center;
+    }
+        .item:hover{color: #2874f0;}
+        .btn{font-size:16px;
+        padding: 10px 20px;
+    background-color: #2874f0;
+color: #fff;
+border:none;
+border-radius: 2px;}
+.top-offers{background-color: #ffffff;
+padding: 50px 0px;}
+.cards{text-align: center;}
+.b{color: #388e3c;}
+.c{color: #a3a0a0;}
+nav{background-color: #2874f0;}
+nav ul{display: flex;
+    justify-content: space-between;
+width: 80vw;
+margin: auto;
+align-items: center;}
+li a{ color: #fff;
+text-decoration: none;}
+li a span{color: yellow;
+font-weight: 900px;}
+.logo{width: 120px;}
+.logosection img{display: block;}
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.space{padding: 10px 20px;}
+.toys{display: flex;
+justify-content: space-around;
+padding: 20px 0px;}
+.toys-more img{width: 80px;}
+.toys-more p{text-align:center;}
+.independence{display: flex;
+justify-content: space-around;}
+.Days p{text-align: center;}
+.z a{padding: 8px 36px;
+color: #2874f0;
+font-size: 25px;
+border: none;}
+nav .plus{display: inline-block;}
+.HE{color: #fff; font-size: 16px;}
+.fa-light{color: #2874f0;}
+.fa-magnifying-glass{background-color: #fff;
+/*width: 20px;
+height: 40px;*/
+/*padding-top: 10px;*/
+border: none;
+color: #2874f0;
+position: relative; 
+right: 20px;}
+.se{border: none;}
+.rakhi{display: flex;
+justify-content: space-between;
+padding: 20px 0px}
+.gifts img{width: 200px;
+height: 200px;}
+.gifts p{text-align: center;}
+.gifts-heading{display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.fa-chevron-left{color:black;
+width: 100px;
+height: 100px;}
+.text-heading{
+    font-size:20px ; color:#585555 ;}
+.explaination{font-size: 15px; color: #878787;}
+footer{background-color:#172337;
+color: #fff;
+ display: flex;
+justify-content: space-between;
+font-family:Arial, Helvetica, sans-serif;}
+footer ul{list-style-type: none;}
+.wrapper{width: 90vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0px;}
+.wrapper>ul:last-child,.wrapper>ul:nth-child(5){width: 250px;}
+footer ul li{margin-bottom: 10px;}
+footer ul li:first-child{color: #5c5353;}
+
+
+
+
